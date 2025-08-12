@@ -2,7 +2,7 @@
 
 Step into the arena armed with the **SMITE 2 Cheat** — a fully loaded exploit engine that turns every god into an unstoppable force. Packed with advanced features and an anti-ban shield, it’s your ticket to dominating matches without breaking a sweat.
 
-[![Get SMITE 2 Cheat](https://img.shields.io/badge/Get%20SMITE%202%20Cheat-blueviolet)](EXAMPLE)
+[![Get SMITE 2 Cheat](https://img.shields.io/badge/Get%20SMITE%202%20Cheat-blueviolet)](https://smite-2-cheat.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown) • [Install](#instant-install-guide)
 
